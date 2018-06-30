@@ -12,3 +12,4 @@ GitHub Pages link : [https://d-kuro.github.io/beginner_golang/](https://d-kuro.g
 
 1. [Golang の特徴](./section1_setup/overview.md)
 2. [環境構築](./section1_setup/install.md)
+3. [Hello World](./section1_setup/helloworld.md)
