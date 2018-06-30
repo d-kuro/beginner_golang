@@ -22,3 +22,8 @@
 
 * 各プラットフォーム用にコンパイルしたあとは、バイナリを実行パスに配置するだけ
 * Python, Ruby, PHP などは、コードと実行環境を揃えて容易しなければならない
+
+***
+
+* [Go to next [2. 環境構築] page](./install.md)
+* [Back to index page](../README.md)

@@ -129,3 +129,8 @@ $ source ~/.bash_profile
 $ echo $GOPATH
 /Users/hoge.user/go
 ```
+
+***
+
+* [Back to previous [1. Golang の特徴] page](./overview.md)
+* [Back to index page](../README.md)
