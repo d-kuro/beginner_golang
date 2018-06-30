@@ -132,5 +132,5 @@ $ echo $GOPATH
 
 ***
 
-* [Back to previous [1. Golang の特徴] page](./overview.md)
+* [Back to previous "1. Golang の特徴" page](./overview.md)
 * [Back to index page](../README.md)
