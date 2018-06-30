@@ -25,5 +25,5 @@
 
 ***
 
-* [Go to next [2. 環境構築] page](./install.md)
+* [Go to next "2. 環境構築" page](./install.md)
 * [Back to index page](../README.md)
