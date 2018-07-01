@@ -71,5 +71,5 @@ Go のプログラムが実行される開始場所は `main` パッケージ内
 
 ***
 
-* [Back to previous "2. 環境構築" page](./install.md)
+* [Back to previous "2. 環境構築"](./install.md)
 * [Back to index page](../README.md)

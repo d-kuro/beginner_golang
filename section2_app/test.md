@@ -120,5 +120,5 @@ FAIL    .../beginner_golang/section2_app/test/language      0.007s
 
 ***
 
-* [Back to previous "2. main パッケージの分割" page](./split_main.md)
+* [Back to previous "2. main パッケージの分割"](./split_main.md)
 * [Back to index page](../README.md)

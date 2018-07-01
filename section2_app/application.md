@@ -75,5 +75,5 @@ Go で import に指定するパッケージは通常は `GOPATH` に指定さ�
 
 ***
 
-* [Go to next "2. main パッケージの分割" page](./split_main.md)
+* [Go to next "2. main パッケージの分割"](./split_main.md)
 * [Back to index page](../README.md)

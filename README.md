@@ -23,3 +23,4 @@ GitHub Pages link : [https://d-kuro.github.io/beginner_golang/](https://d-kuro.g
 ## Golang の構文
 
 1. [変数](./section3_grammar/variable.md)
+2. [配列](./section3_grammar/array.md)
