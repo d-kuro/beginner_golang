@@ -19,3 +19,7 @@ GitHub Pages link : [https://d-kuro.github.io/beginner_golang/](https://d-kuro.g
 1. [簡単なアプリケーションの作成](./section2_app/application.md)
 2. [main パッケージの分割](./section2_app/split_main.md)
 3. [テストをする](./section2_app/test.md)
+
+## Golang の構文
+
+1. [変数](./section3_grammar/variable.md)
