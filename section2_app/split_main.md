@@ -89,6 +89,6 @@ Japanese
 
 ***
 
-* [Go to next "3. テストをする" page](./test.md)
-* [Back to previous "1. 簡単なアプリケーションの作成" page](./application.md)
+* [Go to next "3. テストをする"](./test.md)
+* [Back to previous "1. 簡単なアプリケーションの作成"](./application.md)
 * [Back to index page](../README.md)

@@ -116,5 +116,5 @@ Go では配列型の拡張や縮小は不可能でサイズは常に固定。`S
 
 ***
 
-* [Back to previous "1. 変数" page](./variable.md)
+* [Back to previous "1. 変数"](./variable.md)
 * [Back to index page](../README.md)
