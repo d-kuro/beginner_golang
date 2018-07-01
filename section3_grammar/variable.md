@@ -169,4 +169,5 @@ $ go run main.go
 
 ***
 
+* [Go to next "2. 配列" page](./array.md)
 * [Back to index page](../README.md)
