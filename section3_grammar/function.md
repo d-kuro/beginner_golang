@@ -178,6 +178,65 @@ func main() {
 
 無名関数を引数として渡すことで、`callFunc` 内で関数が呼び出される。
 
+## クロージャ
+
+Go の無名関数はクロージャ。
+
+<!-- markdownlint-disable MD010 -->
+
+```go
+package main
+
+import "fmt"
+
+func later() func(string) string {
+	// 1 つ前の文字列を保持する
+	var store string
+	// 引数に文字列を取り文字列を返す関数を返す
+	return func(next string) string {
+		s := store
+		store = next
+		return s
+	}
+}
+
+func main() {
+	f := later()
+
+	fmt.Println(f("foo"))
+	fmt.Println(f("bar"))
+	fmt.Println(f("baz"))
+}
+```
+
+<!-- markdownlint-enble MD010 -->
+
+```bash
+$ go run main.go
+    # 空文字
+foo
+bar
+```
+
+関数 `later` の中で定義されている変数 `store` はローカル変数。通常、関数のローカル変数は関数の実行が完了した後に破棄される。
+
+だが、Go のコンパイラはクロージャ内からのローカル変数の参照を検出すると、ローカル変数とは別にクロージャと紐づいた変数として処理を行う。
+
+<!-- markdownlint-disable MD010 -->
+
+```go
+var store string
+return func(next string) string {
+	s := store
+	store = next
+	return s
+}
+```
+
+<!-- markdownlint-enble MD010 -->
+
+クロージャに捕捉された変数の領域はクロージャが参照され続ける限り破棄されることはない。
+
 ***
 
 * [Back to previous "2. 配列"](./array.md)
