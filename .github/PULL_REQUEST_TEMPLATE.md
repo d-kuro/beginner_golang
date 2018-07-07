@@ -4,4 +4,4 @@
 
 ## Other
 
-<!-- markdownlint-enble MD002 MD041 -->
+<!-- markdownlint-enable MD002 MD041 -->

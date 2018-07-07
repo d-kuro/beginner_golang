@@ -32,7 +32,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## app.go
 
@@ -46,7 +46,7 @@ func AppName() string {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 実行結果
 

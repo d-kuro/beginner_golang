@@ -14,7 +14,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## go run コマンド
 

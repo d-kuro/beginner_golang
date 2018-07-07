@@ -29,7 +29,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## english.go
 
@@ -43,7 +43,7 @@ func English() string {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## japanese.go
 
@@ -57,7 +57,7 @@ func Japanese() string {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 実行結果
 

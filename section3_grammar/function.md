@@ -10,7 +10,7 @@ func addition(x, y int) int {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 関数は以下のフォーマットで定義を行う。
 
@@ -22,7 +22,7 @@ func [関数名]([引数]) [戻り値の型] {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 引数定義
 
@@ -44,7 +44,7 @@ func hello() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 複数の戻り値
 
@@ -67,7 +67,7 @@ func division(x, y int) (int, int) {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 Go の関数は複数の戻り値を返すことができる。`(int, int)` のように `()` で囲んで列挙を行う。`()` の省略は不可能。
 
@@ -92,7 +92,7 @@ if (err != nil) {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 戻り値を表す変数
 
@@ -108,7 +108,7 @@ func division(x, y int) (q, r int) {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 無名関数
 
@@ -141,7 +141,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ```bash
 $ go run main.go
@@ -174,7 +174,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 無名関数を引数として渡すことで、`callFunc` 内で関数が呼び出される。
 
@@ -209,7 +209,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ```bash
 $ go run main.go
@@ -233,7 +233,7 @@ return func(next string) string {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 クロージャに捕捉された変数の領域はクロージャが参照され続ける限り破棄されることはない。
 
