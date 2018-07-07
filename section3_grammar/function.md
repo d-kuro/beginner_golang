@@ -239,5 +239,6 @@ return func(next string) string {
 
 ***
 
+* [Go to next "4. 定数"](./const.md)
 * [Back to previous "2. 配列"](./array.md)
 * [Back to index page](../README.md)
