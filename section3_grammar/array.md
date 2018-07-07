@@ -15,7 +15,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ```bash
 $ go run main.go
@@ -74,7 +74,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 配列型の代入
 
@@ -108,7 +108,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 配列の拡張について
 

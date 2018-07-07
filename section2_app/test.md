@@ -40,7 +40,7 @@ func TestJapanese(t *testing.T) {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## app_test.go
 
@@ -61,7 +61,7 @@ func TestAppName(t *testing.T) {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## 実行結果
 

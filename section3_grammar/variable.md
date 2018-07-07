@@ -44,7 +44,7 @@ var (
 )
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 定義した変数には `=` を使用して値を代入できる。再代入の制限はないが、異なる型の値を代入しようとするとコンパイルエラーが発生する。
 
@@ -79,7 +79,7 @@ func getAge() int {
 age := getAge
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 暗黙的な変数の定義を利用した代入は 1 度しか許されないので注意する。
 
@@ -119,7 +119,7 @@ age := 20
 name := "hoge"
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ## パッケージ変数
 
@@ -140,7 +140,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 パッケージ変数 `n` は `main` パッケージの中であればどこからでも参照することができる。
 
@@ -159,7 +159,7 @@ func main() {
 }
 ```
 
-<!-- markdownlint-enble MD010 -->
+<!-- markdownlint-enable MD010 -->
 
 ```bash
 $ go run main.go
