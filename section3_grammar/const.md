@@ -100,5 +100,6 @@ const (
 
 ***
 
+* [Go to next "5. スコープ"](./scope.md)
 * [Back to previous "3. 関数"](./function.md)
 * [Back to index page](../README.md)
