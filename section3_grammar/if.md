@@ -64,5 +64,6 @@ if result, err := doSomething(); err != nil {
 
 ***
 
+* [Go to next "7. for"](./for.md)
 * [Back to previous "5. スコープ"](./scope.md)
 * [Back to index page](../README.md)
