@@ -27,3 +27,4 @@ GitHub Pages link : [https://d-kuro.github.io/beginner_golang/](https://d-kuro.g
 3. [関数](./section3_grammar/function.md)
 4. [定数](./section3_grammar/const.md)
 5. [スコープ](./section3_grammar/scope.md)
+6. [if](./section3_grammar/if.md)
