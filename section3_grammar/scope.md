@@ -12,7 +12,7 @@ func DoSomething() {
 	// 略
 }
 
-// パッケージないのみで参照できる
+// パッケージ内のみで参照できる
 func doSomething() {
 	// 略
 }
