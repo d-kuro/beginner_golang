@@ -91,5 +91,6 @@ func doSomething(a int) (b string) {
 
 ***
 
+* [Go to next "6. if"](./if.md)
 * [Back to previous "4. 定数"](./const.md)
 * [Back to index page](../README.md)
