@@ -94,5 +94,6 @@ index = 2, value = baz
 
 ***
 
+* [Go to next "8. switch"](./switch.md)
 * [Back to previous "6. if"](./if.md)
 * [Back to index page](../README.md)
