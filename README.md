@@ -30,3 +30,4 @@ GitHub Pages link : [https://d-kuro.github.io/beginner_golang/](https://d-kuro.g
 6. [if](./section3_grammar/if.md)
 7. [for](./section3_grammar/for.md)
 8. [switch](./section3_grammar/switch.md)
+9. [goto](./section3_grammar/goto.md)

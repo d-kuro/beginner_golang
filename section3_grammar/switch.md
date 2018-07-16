@@ -225,5 +225,6 @@ int or uint: 3
 
 ***
 
+* [Go to next "9. goto"](./goto.md)
 * [Back to previous "7. for"](./for.md)
 * [Back to index page](../README.md)
