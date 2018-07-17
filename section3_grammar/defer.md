@@ -70,7 +70,7 @@ defer file.Close()
 
 `defer` に複数の処理と登録する場合には無名関数を利用することも可能だが、関数呼び出しの形式にしなければならないので `()` が必要になる。
 
-<!-- markdownlint-disable MD010 -->s
+<!-- markdownlint-disable MD010 -->
 
 ```go
 defer func() {
