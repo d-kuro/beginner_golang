@@ -84,5 +84,6 @@ defer func() {
 
 ***
 
+* [Go to next "11. panic"](./panic.md)
 * [Back to previous "9. goto"](./goto.md)
 * [Back to index page](../README.md)
