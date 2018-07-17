@@ -116,5 +116,6 @@ i : 3, j : 1
 
 ***
 
+* [Go to next "10. defer"](./defer.md)
 * [Back to previous "8. switch"](./switch.md)
 * [Back to index page](../README.md)
