@@ -63,5 +63,6 @@ main
 
 ***
 
+* [Go to next "13. 参照型"](./reference.md)
 * [Back to previous "11. panic"](./panic.md)
 * [Back to index page](../README.md)
