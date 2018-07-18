@@ -71,5 +71,6 @@ panic
 
 ***
 
+* [Go to next "12. init"](./init.md)
 * [Back to previous "10. defer"](./defer.md)
 * [Back to index page](../README.md)
