@@ -100,6 +100,23 @@ fmt.Println(slice)    // BC
 
 ただし、簡易スライス式の単位は文字単位ではなくバイト単位であるため、マルチバイト文字を使用する場合には適していない。
 
+## append
+
+スライスは可変長配列であるため要素数に制限がない。スライスの要素を拡張するためには組み込み関数 `append` を使用する。
+
+### 要素の追加
+
+関数 `append` は 1 番目の引数にスライス型をとり、2 番目以降の引数は可変長で任意の数だけ指定することができる。
+
+```go
+slice := []int{1, 2, 3}
+fmt.Println(slice)          // [1 2 3]
+slice = append(slice, 4)
+fmt.Println(slice)          // [1 2 3 4]
+slice = append(slice, 5, 6)
+fmt.Println(slice)          // [1 2 3 4 5 6]
+```
+
 ***
 
 * [Back to previous "13. 参照型"](./reference.md)
