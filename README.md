@@ -35,3 +35,4 @@ GitHub Pages link : [https://d-kuro.github.io/beginner_golang/](https://d-kuro.g
 11. [panic](./section3_grammar/panic.md)
 12. [init](./section3_grammar/init.md)
 13. [参照型](./section3_grammar/reference.md)
+14. [スライス](./section3_grammar/slice.md)

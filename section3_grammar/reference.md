@@ -19,5 +19,6 @@ Go には特殊なデータ構造を備えた「参照型」という型が定�
 
 ***
 
+* [Go to next "14. スライス"](./slice.md)
 * [Back to previous "12. init"](./init.md)
 * [Back to index page](../README.md)
